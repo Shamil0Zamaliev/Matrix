@@ -1,0 +1,15 @@
+G:\Study\Code_projects_1course\Matrix\Matrix\bin\Debug\net6.0\Matrix.exe
+G:\Study\Code_projects_1course\Matrix\Matrix\bin\Debug\net6.0\Matrix.deps.json
+G:\Study\Code_projects_1course\Matrix\Matrix\bin\Debug\net6.0\Matrix.runtimeconfig.json
+G:\Study\Code_projects_1course\Matrix\Matrix\bin\Debug\net6.0\Matrix.dll
+G:\Study\Code_projects_1course\Matrix\Matrix\bin\Debug\net6.0\Matrix.pdb
+G:\Study\Code_projects_1course\Matrix\Matrix\obj\Debug\net6.0\Matrix.csproj.AssemblyReference.cache
+G:\Study\Code_projects_1course\Matrix\Matrix\obj\Debug\net6.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+G:\Study\Code_projects_1course\Matrix\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfoInputs.cache
+G:\Study\Code_projects_1course\Matrix\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfo.cs
+G:\Study\Code_projects_1course\Matrix\Matrix\obj\Debug\net6.0\Matrix.csproj.CoreCompileInputs.cache
+G:\Study\Code_projects_1course\Matrix\Matrix\obj\Debug\net6.0\Matrix.dll
+G:\Study\Code_projects_1course\Matrix\Matrix\obj\Debug\net6.0\refint\Matrix.dll
+G:\Study\Code_projects_1course\Matrix\Matrix\obj\Debug\net6.0\Matrix.pdb
+G:\Study\Code_projects_1course\Matrix\Matrix\obj\Debug\net6.0\Matrix.genruntimeconfig.cache
+G:\Study\Code_projects_1course\Matrix\Matrix\obj\Debug\net6.0\ref\Matrix.dll
